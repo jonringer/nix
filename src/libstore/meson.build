@@ -284,6 +284,8 @@ sources = files(
   'build/substitution-goal.cc',
   'build/worker.cc',
   'builtins/buildenv.cc',
+  'builtins/cproject-discover.cc',
+  'builtins/cproject-pkgconfig.cc',
   'builtins/fetchurl.cc',
   'builtins/unpack-channel.cc',
   'common-protocol.cc',
